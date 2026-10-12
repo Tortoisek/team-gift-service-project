@@ -76,7 +76,11 @@ https://github.com/Tortoisek/team-gift-service-project
 
 Для слияния изменений в основную ветку использовались Pull Request. Процесс включал создание запроса, проверку изменений (Review) и последующее слияние (Merge).
 
-![Скриншот Pull Request](assets/pull-request.png)
+![Скриншот Pull Request](assets/pull-request_analyst.png)
+![Скриншот Pull Request](assets/pull-request_leader.png)
+![Скриншот Pull Request](assets/pull-request_tester.png)
+![Скриншот Pull Request](assets/pull-request_programmer.png)
+![Скриншот Pull Request](assets/pull-request_architect.png)
 
 ### 7. Вывод
 
