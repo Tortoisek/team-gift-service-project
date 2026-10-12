@@ -80,7 +80,8 @@ https://github.com/Tortoisek/team-gift-service-project
 ![Скриншот Pull Request](assets/pull-request_leader.png)
 ![Скриншот Pull Request](assets/pull-request_tester.png)
 ![Скриншот Pull Request](assets/pull-request_programmer.png)
-![Скриншот Pull Request](assets/pull-request_architect.png)
+![Скриншот Pull Request](assets/pull-request_architect1.png)
+![Скриншот Pull Request](assets/pull-request_architect2.png)
 
 ### 7. Вывод
 
