@@ -56,38 +56,28 @@
 
 Для того чтобы работа шла слаженно, мы всё обсуждали в командном чате. Вот что я делала:
 
-- **Общалась с программистом:** отправила ему свой список экранов и функций. Он сказал, что структура подходит.
-<br>
-<table>
-  <tr>
-    <td><img src="assets/screenshot_analyst_1_1.png" width="300"></td>
-    <td><img src="assets/screenshot_analyst_1_2.png" width="300"></td>
-    <td><img src="assets/screenshot_analyst_1_3.png" width="300"></td>
-  </tr>
-</table>
-<br>
+**Общалась с программистом:** отправила ему свой список экранов и функций. Он сказал, что структура подходит.
 
-- **Передала задачу архитектору:** отправила ему список элементов, чтобы он нарисовал черновые схемы экранов.
-<br>
-<table>
-  <tr>
-    <td><img src="assets/screenshot_analyst_2_1.png" width="300"></td>
-    <td><img src="assets/screenshot_analyst_2_2.png" width="300"></td>
-    <td><img src="assets/screenshot_analyst_2_3.png" width="300"></td>
-  </tr>
-</table>
-<br>
 
-- **Участвовала в общем обсуждении:** когда тестировщик давал свои правки, я тоже писала своё мнение.
-<br>
-<table>
-  <tr>
-    <td><img src="assets/screenshot_analyst_3_1.png" width="300"></td>
-    <td><img src="assets/screenshot_analyst_3_2.png" width="300"></td>
-    <td><img src="assets/screenshot_analyst_3_3.png" width="300"></td>
-  </tr>
-</table>
+![Скрин 1_1](assets/screenshot_analyst_1_1.png)
+![Скрин 1_2](assets/screenshot_analyst_1_2.png)
+![Скрин 1_3](assets/screenshot_analyst_1_3.png)
 
+
+**Передала задачу архитектору:** отправила ему список элементов, чтобы он нарисовал черновые схемы экранов.
+
+
+![Скрин 2_1](assets/screenshot_analyst_2_1.png)
+![Скрин 2_2](assets/screenshot_analyst_2_2.png)
+![Скрин 2_3](assets/screenshot_analyst_2_3.png)
+
+
+**Участвовала в общем обсуждении:** когда тестировщик давал свои правки, я тоже писала своё мнение.
+
+
+![Скрин 3_1](assets/screenshot_analyst_3_1.png)
+![Скрин 3_2](assets/screenshot_analyst_3_2.png)
+![Скрин 3_3](assets/screenshot_analyst_3_3.png)
 
 ## 5. Вывод
 
